@@ -1,0 +1,132 @@
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.csproj.AssemblyReference.cache
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.AssemblyInfoInputs.cache
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.AssemblyInfo.cs
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.csproj.CoreCompileInputs.cache
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.MvcApplicationPartsAssemblyInfo.cache
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.RazorAssemblyInfo.cache
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.RazorAssemblyInfo.cs
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/appsettings.Development.json
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/appsettings.json
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/eTickets.staticwebassets.runtime.json
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/eTickets
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/eTickets.deps.json
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/eTickets.runtimeconfig.json
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/eTickets.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/eTickets.pdb
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Humanizer.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/obj/Debug/net6.0/staticwebassets.build.json
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/obj/Debug/net6.0/staticwebassets.development.json
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/obj/Debug/net6.0/scopedcss/bundle/eTickets.styles.css
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/obj/Debug/net6.0/scopedcss/projectbundle/eTickets.bundle.scp.css
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.csproj.CopyComplete
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/obj/Debug/net6.0/refint/eTickets.dll
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.pdb
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.genruntimeconfig.cache
+/Users/vladimirschmadlak/Documents/AssignmentRevised/eTickets/obj/Debug/net6.0/ref/eTickets.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/appsettings.Development.json
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/appsettings.json
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/eTickets.staticwebassets.runtime.json
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/eTickets
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/eTickets.deps.json
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/eTickets.runtimeconfig.json
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/eTickets.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/eTickets.pdb
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Humanizer.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.csproj.AssemblyReference.cache
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.AssemblyInfoInputs.cache
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.AssemblyInfo.cs
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.csproj.CoreCompileInputs.cache
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.MvcApplicationPartsAssemblyInfo.cache
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.RazorAssemblyInfo.cache
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.RazorAssemblyInfo.cs
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/obj/Debug/net6.0/staticwebassets.build.json
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/obj/Debug/net6.0/staticwebassets.development.json
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/obj/Debug/net6.0/scopedcss/bundle/eTickets.styles.css
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/obj/Debug/net6.0/scopedcss/projectbundle/eTickets.bundle.scp.css
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.csproj.CopyComplete
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/obj/Debug/net6.0/refint/eTickets.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.pdb
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/obj/Debug/net6.0/eTickets.genruntimeconfig.cache
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/obj/Debug/net6.0/ref/eTickets.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/vladimirschmadlak/Documents/Code/University/Developing SS/Final Assignment/AssignmentRevised/eTickets/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
